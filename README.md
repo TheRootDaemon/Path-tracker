@@ -12,8 +12,8 @@ This project implements a lane detection system using computer vision to guide a
 
 ## Demo Videos
 The following videos showcase the project's lane detection and robot control in action:
-- **[](./Output/outputScreen_1.mp4)**
-- **[](./Output/outputScreen_2.mp4)**
+**![](./Output/outputScreen_1.mp4)**
+**![](./Output/outputScreen_2.mp4)**
 
 ## Project Components
 - **Python Script (Computer Vision)**:
