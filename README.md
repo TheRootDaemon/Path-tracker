@@ -13,10 +13,10 @@ This project implements a lane detection system using computer vision to guide a
 ## Demo Videos
 The following videos showcase the project's lane detection and robot control in action:
 
-- **[Autonomus navigation with screen recording(1)](./Output/outputScreen_1.mp4)**
-- **[Autonomus navigation with screen recording(2)](./Output/outputScreen_2.mp4)**
-- **[Autonomus navigation(1)](./Output/lane_1.mp4)**
-- **[Autonomus navigation(2)](./Output/lane_2.mp4)**
+- **[Autonomus navigation with screen recording(1)](./Output/outputScreen_1.git)**
+- **[Autonomus navigation with screen recording(2)](./Output/outputScreen_2.git)**
+- **[Autonomus navigation(1)](./Output/lane_1.git)**
+- **[Autonomus navigation(2)](./Output/lane_2.git)**
 
 ## Project Components
 - **Python Script (Computer Vision)**:
